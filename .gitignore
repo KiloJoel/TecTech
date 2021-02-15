@@ -5,7 +5,6 @@ eclipse/
 .project
 bin/
 out/
-libs/gregtech*
 CREDITS-fml.txt
 LICENSE-fml.txt
 MinecraftForge-Credits.txt
